@@ -2,4 +2,4 @@ def greeting(name="James")
   puts "Hello, #{name}"
 end
 
-greeting
+greeting("Batman")
