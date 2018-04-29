@@ -1,4 +1,4 @@
-def greeting(name)
+def greeting(name="James")
   puts "Hello, #{name}"
 end
 
