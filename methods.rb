@@ -3,4 +3,4 @@ def greeting(name="")
 end
 
 greeting("Batman")
-greeting
+greeting("Wonder Woman")
